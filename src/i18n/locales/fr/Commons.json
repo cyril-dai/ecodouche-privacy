@@ -1,0 +1,42 @@
+{
+  "fr": "Français",
+  "en": "English",
+  "Privacy Policy": {
+    "Title": "Politique de Confidentialité",
+    "Introduction": {
+      "Title": "Introduction",
+      "Text": "Bienvenue sur Ecodouche. Nous respectons votre vie privée et nous nous engageons à protéger les informations personnelles que vous pourriez nous fournir via notre application mobile."
+    },
+    "Information Collection": {
+      "Title": "Collecte des Informations",
+      "Data Collected": {
+        "Title": "Données Collectées",
+        "Text": "Nous ne collectons aucune donnée personnelle identifiable (PII) ni aucune autre information sur les utilisateurs de notre application. Cela inclut, sans s'y limiter, les noms, adresses, numéros de téléphone, adresses e-mail, ou toute autre donnée personnelle."
+      },
+      "Data Usage": {
+        "Title": "Utilisation des Données",
+        "Text": "Étant donné que nous ne collectons aucune donnée utilisateur, nous n'utilisons pas, ne partageons pas et ne stockons pas de telles informations."
+      }
+    },
+    "Cookies and Similar Technologies": {
+      "Title": "Cookies et Technologies Similaires",
+      "Text": "Notre application ne utilise pas de cookies ni de technologies similaires pour collecter des données ou pour suivre l'activité des utilisateurs."
+    },
+    "Data Sharing": {
+      "Title": "Partage des Données",
+      "Text": "Nous ne partageons aucune donnée utilisateur avec des tiers, car nous ne collectons aucune donnée."
+    },
+    "Data Security": {
+      "Title": "Sécurité des Données",
+      "Text": "Bien que nous ne collectons aucune donnée utilisateur, nous prenons des mesures pour assurer la sécurité et la protection de notre application contre toute tentative d'accès non autorisé."
+    },
+    "Changes to This Privacy Policy": {
+      "Title": "Modifications de cette Politique de Confidentialité",
+      "Text": "Nous pouvons mettre à jour notre politique de confidentialité de temps en temps. Nous vous informerons de tout changement en publiant la nouvelle politique de confidentialité sur cette page. Vous êtes conseillé de consulter cette politique de confidentialité périodiquement pour toute modification. Les modifications apportées à cette politique de confidentialité sont effectives lorsqu'elles sont publiées sur cette page."
+    },
+    "Contact Us": {
+      "Title": "Contactez-nous",
+      "Text": "Si vous avez des questions concernant cette politique de confidentialité, vous pouvez nous contacter à:\n\n cyril.dai.dev@gmail.com\n\nMerci d'avoir utilisé Ecodouche."
+    }
+  }
+}

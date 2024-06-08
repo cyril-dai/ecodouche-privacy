@@ -1,0 +1,13 @@
+.menu-btn {
+  @apply transition duration-300 text-gray-400 hover:text-gray-500;
+}
+
+.menu {
+  @apply origin-top transition rounded-lg mt-2 border-2 border-gray-500;
+}
+
+.item {
+  @apply block w-full whitespace-nowrap data-[focus]:bg-gray-100 bg-white
+    px-2 py-1
+    transition-all duration-300;
+}
